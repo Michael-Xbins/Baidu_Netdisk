@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+{
+	int qwer=1234;
+	printf("hello world  %d\n",qwer);
+	return 0;
+}
